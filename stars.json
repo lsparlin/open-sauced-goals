@@ -1,21 +1,21 @@
 [
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 9929,
+    "stargazers_count": 9928,
     "open_issues_count": 10,
     "forks_count": 579
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 88,
-    "open_issues_count": 16,
-    "forks_count": 117
+    "open_issues_count": 21,
+    "forks_count": 118
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 21353,
-    "open_issues_count": 19,
-    "forks_count": 1132
+    "stargazers_count": 21401,
+    "open_issues_count": 17,
+    "forks_count": 1133
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10378,
+    "stargazers_count": 10379,
     "open_issues_count": 21,
-    "forks_count": 1233
+    "forks_count": 1232
   },
   {
     "full_name": "randywallace/dotfiles",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 42689,
-    "open_issues_count": 12,
-    "forks_count": 5177
+    "stargazers_count": 42703,
+    "open_issues_count": 13,
+    "forks_count": 5178
   },
   {
     "full_name": "HomeSchoolDev/StringsTranslator",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 208110,
-    "open_issues_count": 83,
-    "forks_count": 45204
+    "stargazers_count": 208322,
+    "open_issues_count": 86,
+    "forks_count": 45255
   },
   {
     "full_name": "spockframework/spock",
-    "stargazers_count": 3008,
+    "stargazers_count": 3012,
     "open_issues_count": 242,
-    "forks_count": 416
+    "forks_count": 417
   }
 ]
