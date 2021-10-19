@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "decentology/web2-to-web3-resources",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 9929,
+    "stargazers_count": 9932,
     "open_issues_count": 10,
     "forks_count": 578
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 88,
-    "open_issues_count": 22,
-    "forks_count": 118
+    "open_issues_count": 25,
+    "forks_count": 120
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 21425,
+    "stargazers_count": 21504,
     "open_issues_count": 18,
-    "forks_count": 1136
+    "forks_count": 1143
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10379,
+    "stargazers_count": 10381,
     "open_issues_count": 21,
     "forks_count": 1234
   },
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 42713,
+    "stargazers_count": 42741,
     "open_issues_count": 13,
-    "forks_count": 5179
+    "forks_count": 5182
   },
   {
     "full_name": "HomeSchoolDev/StringsTranslator",
@@ -55,14 +61,14 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 208411,
-    "open_issues_count": 86,
-    "forks_count": 45266
+    "stargazers_count": 208625,
+    "open_issues_count": 95,
+    "forks_count": 45312
   },
   {
     "full_name": "spockframework/spock",
-    "stargazers_count": 3013,
-    "open_issues_count": 242,
+    "stargazers_count": 3014,
+    "open_issues_count": 243,
     "forks_count": 417
   }
 ]
