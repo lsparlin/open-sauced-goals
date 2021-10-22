@@ -1,27 +1,33 @@
 [
   {
-    "full_name": "decentology/web2-to-web3-resources",
-    "stargazers_count": 7,
-    "open_issues_count": 2,
+    "full_name": "joemasilotti/railsdevs.io",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
+    "full_name": "decentology/web2-to-web3-resources",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 9934,
+    "stargazers_count": 9939,
     "open_issues_count": 10,
-    "forks_count": 578
+    "forks_count": 579
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 92,
-    "open_issues_count": 24,
+    "stargazers_count": 94,
+    "open_issues_count": 26,
     "forks_count": 120
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 21536,
+    "stargazers_count": 21591,
     "open_issues_count": 18,
-    "forks_count": 1143
+    "forks_count": 1146
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -30,28 +36,16 @@
     "forks_count": 84
   },
   {
-    "full_name": "XVimProject/XVim",
-    "stargazers_count": 5235,
-    "open_issues_count": 316,
-    "forks_count": 632
-  },
-  {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10383,
+    "stargazers_count": 10386,
     "open_issues_count": 21,
-    "forks_count": 1234
+    "forks_count": 1235
   },
   {
     "full_name": "randywallace/dotfiles",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 42753,
-    "open_issues_count": 13,
-    "forks_count": 5184
   },
   {
     "full_name": "HomeSchoolDev/StringsTranslator",
@@ -61,14 +55,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 208712,
-    "open_issues_count": 92,
-    "forks_count": 45349
-  },
-  {
-    "full_name": "spockframework/spock",
-    "stargazers_count": 3017,
-    "open_issues_count": 243,
-    "forks_count": 417
+    "stargazers_count": 208864,
+    "open_issues_count": 88,
+    "forks_count": 45397
   }
 ]
