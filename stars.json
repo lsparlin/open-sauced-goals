@@ -1,15 +1,15 @@
 [
   {
     "full_name": "ayushn21/maintenance_job",
-    "stargazers_count": 10,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "joemasilotti/railsdevs.io",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 22,
+    "open_issues_count": 6,
+    "forks_count": 7
   },
   {
     "full_name": "decentology/web2-to-web3-resources",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 9948,
+    "stargazers_count": 9950,
     "open_issues_count": 10,
-    "forks_count": 581
+    "forks_count": 580
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 96,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 122
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 21683,
-    "open_issues_count": 17,
-    "forks_count": 1154
+    "stargazers_count": 21718,
+    "open_issues_count": 16,
+    "forks_count": 1153
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 209260,
-    "open_issues_count": 94,
-    "forks_count": 45484
+    "stargazers_count": 209434,
+    "open_issues_count": 96,
+    "forks_count": 45506
   }
 ]
