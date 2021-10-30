@@ -3,7 +3,7 @@
     "full_name": "nickytonline/terrible-characters",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "jasonswett/hangman_challenge",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "joemasilotti/railsdevs.io",
-    "stargazers_count": 25,
-    "open_issues_count": 6,
-    "forks_count": 10
+    "stargazers_count": 27,
+    "open_issues_count": 7,
+    "forks_count": 11
   },
   {
     "full_name": "decentology/web2-to-web3-resources",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 9954,
+    "stargazers_count": 9955,
     "open_issues_count": 10,
-    "forks_count": 581
+    "forks_count": 580
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 97,
-    "open_issues_count": 22,
+    "open_issues_count": 15,
     "forks_count": 123
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 21784,
-    "open_issues_count": 17,
-    "forks_count": 1158
+    "stargazers_count": 21820,
+    "open_issues_count": 16,
+    "forks_count": 1160
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10392,
+    "stargazers_count": 10393,
     "open_issues_count": 21,
     "forks_count": 1234
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 209615,
-    "open_issues_count": 96,
-    "forks_count": 45534
+    "stargazers_count": 209697,
+    "open_issues_count": 104,
+    "forks_count": 45556
   }
 ]
