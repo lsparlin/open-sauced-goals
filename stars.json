@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "hexdevs/ruby-best-practices-list",
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "nickytonline/terrible-characters",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "joemasilotti/railsdevs.io",
-    "stargazers_count": 38,
-    "open_issues_count": 14,
-    "forks_count": 17
+    "stargazers_count": 48,
+    "open_issues_count": 15,
+    "forks_count": 22
   },
   {
     "full_name": "decentology/web2-to-web3-resources",
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 10061,
+    "stargazers_count": 10063,
     "open_issues_count": 10,
     "forks_count": 584
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 97,
-    "open_issues_count": 13,
+    "stargazers_count": 98,
+    "open_issues_count": 14,
     "forks_count": 124
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 22056,
+    "stargazers_count": 22142,
     "open_issues_count": 17,
     "forks_count": 1174
   },
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10395,
+    "stargazers_count": 10399,
     "open_issues_count": 21,
-    "forks_count": 1233
+    "forks_count": 1234
   },
   {
     "full_name": "randywallace/dotfiles",
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 210144,
-    "open_issues_count": 80,
-    "forks_count": 45653
+    "stargazers_count": 210289,
+    "open_issues_count": 74,
+    "forks_count": 45672
   }
 ]
