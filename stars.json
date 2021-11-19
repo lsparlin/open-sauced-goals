@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "Tonksthebear/classy-yaml",
+    "stargazers_count": 10,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "CoffeeBreakKeyboards/kawa",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "chubin/awesome-console-services",
-    "stargazers_count": 3471,
+    "stargazers_count": 3500,
     "open_issues_count": 1,
-    "forks_count": 221
+    "forks_count": 223
   },
   {
     "full_name": "ddnexus/pagy",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 29849,
-    "open_issues_count": 50,
-    "forks_count": 6847
+    "stargazers_count": 29890,
+    "open_issues_count": 43,
+    "forks_count": 6857
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 18135,
+    "stargazers_count": 18171,
     "open_issues_count": 368,
-    "forks_count": 3183
+    "forks_count": 3185
   },
   {
     "full_name": "hexdevs/ruby-best-practices-list",
@@ -45,7 +51,7 @@
     "full_name": "jasonswett/hangman_challenge",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "ayushn21/maintenance_job",
@@ -54,10 +60,10 @@
     "forks_count": 0
   },
   {
-    "full_name": "joemasilotti/railsdevs.io",
-    "stargazers_count": 60,
+    "full_name": "joemasilotti/railsdevs.com",
+    "stargazers_count": 63,
     "open_issues_count": 15,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "decentology/web2-to-web3-resources",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 99,
+    "stargazers_count": 98,
     "open_issues_count": 13,
     "forks_count": 124
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 22415,
-    "open_issues_count": 17,
-    "forks_count": 1185
+    "stargazers_count": 22635,
+    "open_issues_count": 18,
+    "forks_count": 1191
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10403,
+    "stargazers_count": 10401,
     "open_issues_count": 21,
-    "forks_count": 1235
+    "forks_count": 1236
   },
   {
     "full_name": "randywallace/dotfiles",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 211061,
-    "open_issues_count": 40,
-    "forks_count": 45764
+    "stargazers_count": 211208,
+    "open_issues_count": 37,
+    "forks_count": 45789
   }
 ]
