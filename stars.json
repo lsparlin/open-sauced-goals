@@ -19,27 +19,27 @@
   },
   {
     "full_name": "chubin/awesome-console-services",
-    "stargazers_count": 3550,
+    "stargazers_count": 3559,
     "open_issues_count": 1,
     "forks_count": 225
   },
   {
     "full_name": "ddnexus/pagy",
-    "stargazers_count": 3300,
+    "stargazers_count": 3303,
     "open_issues_count": 2,
-    "forks_count": 285
+    "forks_count": 286
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 29979,
-    "open_issues_count": 46,
-    "forks_count": 6875
+    "stargazers_count": 30010,
+    "open_issues_count": 43,
+    "forks_count": 6878
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 18220,
-    "open_issues_count": 370,
-    "forks_count": 3189
+    "stargazers_count": 18226,
+    "open_issues_count": 367,
+    "forks_count": 3191
   },
   {
     "full_name": "hexdevs/ruby-best-practices-list",
@@ -51,7 +51,7 @@
     "full_name": "nickytonline/terrible-characters",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "jasonswett/hangman_challenge",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "joemasilotti/railsdevs.com",
-    "stargazers_count": 65,
-    "open_issues_count": 14,
+    "stargazers_count": 67,
+    "open_issues_count": 18,
     "forks_count": 29
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 10077,
+    "stargazers_count": 10078,
     "open_issues_count": 10,
-    "forks_count": 583
+    "forks_count": 584
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 22771,
+    "stargazers_count": 22809,
     "open_issues_count": 18,
-    "forks_count": 1198
+    "forks_count": 1200
   },
   {
     "full_name": "sergiolepore/ChristBASHTree",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "futurice/ios-good-practices",
-    "stargazers_count": 10402,
+    "stargazers_count": 10403,
     "open_issues_count": 21,
     "forks_count": 1235
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 211450,
-    "open_issues_count": 40,
-    "forks_count": 45801
+    "stargazers_count": 211504,
+    "open_issues_count": 37,
+    "forks_count": 45810
   }
 ]
